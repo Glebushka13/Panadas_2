@@ -1,0 +1,6 @@
+﻿Es izvēlējos Python bibliotēku pandas, jo tā ir viena no vispopulārākajām un ērtākajām bibliotēkām datu apstrādei un analīzei. Tā ļauj strādāt ar tabulveida datiem līdzīgi kā Excel, bet ar daudz plašākām iespējām programmēšanā. Ar pandas var viegli lasīt un saglabāt datus dažādos formātos, filtrēt un kārtot informāciju, veikt aprēķinus un apvienot datu kopas. Šī bibliotēka ir ļoti noderīga, jo tā būtiski paātrina datu apstrādes procesu un tiek plaši izmantota datu zinātnē.
+
+Pandas galvenie ieguvumi ir tas, ka tā ļauj ātri un ērti apstrādāt lielu datu apjomu, samazina nepieciešamību rakstīt sarežģītu kodu un piedāvā daudz gatavu funkciju datu analīzei. Tā arī labi darbojas kopā ar citām Python bibliotēkām.
+
+Tomēr pandas ir arī daži ierobežojumi. Tā var patērēt daudz datora atmiņas, īpaši strādājot ar ļoti lieliem datu apjomiem. Iesācējiem tā var šķist sarežģīta, jo ir daudz dažādu funkciju un metožu. Tāpat dažos gadījumos tā nav tik ātra kā specializēti lielo datu risinājumi.
+Funkciju apraksti ir komentaros pie katras funkcijas
