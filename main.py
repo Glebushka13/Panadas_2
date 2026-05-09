@@ -1,6 +1,6 @@
 ﻿while True:
 
-    print("\n=== PANDAS FUNKCIJU DEMONSTRĀCIJA ===")
+    print("Pandas piemeri:")
     print("1 - pandas.melt")
     print("2 - pandas.pivot")
     print("3 - pandas.qcut")
